@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+package.json
+setup.py
+column_mapper/ColumnMapper.py
+column_mapper/__init__.py
+column_mapper/_imports_.py
+column_mapper/column_mapper.min.js
+column_mapper/column_mapper.min.js.map
+column_mapper/metadata.json
+column_mapper/package-info.json
+column_mapper.egg-info/PKG-INFO
+column_mapper.egg-info/SOURCES.txt
+column_mapper.egg-info/dependency_links.txt
+column_mapper.egg-info/top_level.txt

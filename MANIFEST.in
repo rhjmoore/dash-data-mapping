@@ -1,0 +1,11 @@
+include column_mapper/column_mapper.min.js
+include column_mapper/column_mapper.min.js.map
+include column_mapper/async-*.js
+include column_mapper/async-*.js.map
+include column_mapper/*-shared.js
+include column_mapper/*-shared.js.map
+include column_mapper/metadata.json
+include column_mapper/package-info.json
+include README.md
+include LICENSE
+include package.json

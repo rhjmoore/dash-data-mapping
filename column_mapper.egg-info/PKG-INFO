@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: column-mapper
+Version: 0.0.1
+Summary: A dash column mapping component
+Author: Ross Moore <ross@rossmoore.net>
+License: MIT
+Classifier: Framework :: Dash
+License-File: LICENSE
